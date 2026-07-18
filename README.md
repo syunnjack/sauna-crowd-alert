@@ -14,7 +14,7 @@ Other candidates:
 
 - `saunacrowd.jp`
 - `saunaalert.jp`
-- `löyly.jp`
+- `loyly.jp`
 - `totonoualert.jp`
 
 ## Concept
