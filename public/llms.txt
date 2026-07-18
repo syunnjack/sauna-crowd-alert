@@ -1,0 +1,7 @@
+# Sauna Crowd Alert
+
+混雑、ロウリュ、イベント、回数券、深夜営業を通知し、施設送客、物販、宿泊へつなげる。
+
+Notification channels: LINE, X, email, Slack
+Revenue: 施設送客, 回数券, グッズ, 宿泊送客, スポンサー
+Primary categories: 混雑, ロウリュ, イベント, 回数券, 深夜
