@@ -8,7 +8,7 @@ Recommended repository name: `sauna-crowd-alert`
 
 ## Domain candidates
 
-First candidate: `saunacrowd.jp`
+Confirmed domain: `saunacrowd.jp`
 
 Other candidates:
 
