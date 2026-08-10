@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://saunacrowd.jp/sitemap.xml
+
+Sitemap: https://sauna-crowd-alert.vercel.app/sitemap.xml
