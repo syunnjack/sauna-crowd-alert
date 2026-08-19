@@ -1,7 +1,4 @@
-# Sauna Crowd Alert
+# saunacrowd.jp
 
-混雑、ロウリュ、イベント、回数券、深夜営業を通知し、施設送客、物販、宿泊へつなげる。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 施設送客, 回数券, グッズ, 宿泊送客, スポンサー
-Primary categories: 混雑, ロウリュ, イベント, 回数券, 深夜
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
