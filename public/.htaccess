@@ -1,0 +1,11 @@
+# saunacrowd.jp は sauna-map.jp へ集約する。
+#
+# 同じ OpenStreetMap のデータを使う以上、2つのサイトで同じ施設を扱うことになり、
+# 検索結果で互いに食い合う。混雑状況は公開データが無く、この名前で
+# 独自の中身を用意できる見込みも無いため、ドメインの評価を sauna-map.jp に渡す。
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^(www\.)?saunacrowd\.jp$ [NC]
+    RewriteRule ^(.*)$ https://sauna-map.jp/$1 [R=301,L]
+</IfModule>
